@@ -3,5 +3,7 @@
 
 # Desafios Pythonicos
 
-Desafios elaborados em linguagem python por Henrique Bastos com as minhas resoluções para prática e aprendizado de python.
+Desafios elaborados em linguagem python por Henrique Bastos, para prática e aprendizado de python.
+
+Os arquivos aqui anexados, apresentam as estratégias que eu utilizei para a resolução os desafios.
 
