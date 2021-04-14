@@ -5,5 +5,5 @@
 
 Desafios elaborados em linguagem python por Henrique Bastos, para prática e aprendizado de python.
 
-Os arquivos aqui anexados, apresentam as estratégias que eu utilizei para a resolução os desafios.
+Os arquivos aqui anexados, apresentam as estratégias que eu utilizei para a resolução dos desafios.
 
